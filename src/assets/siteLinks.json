@@ -13,5 +13,10 @@
     "icon": "Compass",
     "name": "起始页",
     "link": "https://link3.cc/hongshi2333"
+  },
+  {
+    "icon": "Cloud",
+    "name": "天气预报",
+    "link": "https://weather.hongshi.us.kg"
   }
 ]
