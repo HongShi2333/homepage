@@ -18,5 +18,10 @@
     "icon": "Cloud",
     "name": "天气预报",
     "link": "https://weather.hongshi.us.kg"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "免费AI API KEY",
+    "link": "https://error418-oneapi.hf.space"
   }
 ]
