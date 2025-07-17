@@ -2,12 +2,7 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.hongshi.us.kg/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.hongshi.us.kg/"
+    "link": "https://blog.hongshi.qzz.io/"
   },
   {
     "icon": "Compass",
@@ -17,11 +12,11 @@
   {
     "icon": "Cloud",
     "name": "天气预报",
-    "link": "https://weather.hongshi.us.kg"
+    "link": "https://weather.hongshi.qzz.io"
   },
   {
     "icon": "LaptopCode",
     "name": "免费AI API KEY",
-    "link": "https://error418-oneapi.hf.space"
+    "link": "https://errorcode418-api.hf.space"
   }
 ]
