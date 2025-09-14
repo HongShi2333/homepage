@@ -2,7 +2,7 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.hongshi.qzz.io/"
+    "link": "https://hongshi.qzz.io"
   },
   {
     "icon": "Compass",
@@ -16,7 +16,7 @@
   },
   {
     "icon": "LaptopCode",
-    "name": "免费AI API KEY",
-    "link": "https://errorcode418-api.hf.space"
+    "name": "红石API",
+    "link": "https://hongshi1145-api.hf.space"
   }
 ]
